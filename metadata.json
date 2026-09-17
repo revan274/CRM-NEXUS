@@ -1,0 +1,6 @@
+{
+  "name": "Nexus CRM Multiempresa",
+  "description": "Sistema CRM SaaS multiempresa con pipeline comercial, kanban, gestión de clientes, productos, tareas, actividades, reportes y control de roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
